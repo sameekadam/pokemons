@@ -1,0 +1,10 @@
+.poke-btn {
+    display: flex;
+    margin-top: 20px; 
+}
+
+.page-no {
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px; 
+}
